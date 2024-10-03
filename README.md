@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**shchff/shchff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img width="600" src="assets/computer.gif" alt="animation"/>
+</div>
 
-Here are some ideas to get you started:
+## 👨‍💻 About me:
+I'm Grigorii Shcherbakov. I'm CS-student and I'm looking for Java Developer job. Currently, I'm working on:
+  - 🐱 Pet-Projects
+  - 🧑‍🎓 University Projects
+  - Coding and algorithmic tasks solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✉️ How to chat me:
+  - Telegram ✈️ [@shchff](https://t.me/shchff)
+  - E-mail 📧 grisaserbakov0@gmail.com
+
+## 📚 Stack
+
+### 🖥️ Main Technologies:
+  - 
+### 💻 Additional Technologies:
+
+### 🧰 Tools:
